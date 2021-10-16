@@ -1,0 +1,2 @@
+# Recursion Practice
+This is my repository for practicing recursion, so I can learn how to think in terms of it and be a better problem solver. Right now I am making the code based off ["5 Simple Steps for Solving Any Recursive Problem"](https://www.youtube.com/watch?v=ngCos392W4w).
